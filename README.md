@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <p align="left">
 
   <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b1785561-4886-4bd5-90e2-685df48b76c6" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://t.me/mikhailo_0" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d978cb91-9d08-4c86-b2ec-039aa48463d3" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 <b>Статистика GitHub</b>
