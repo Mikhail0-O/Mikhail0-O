@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет! Меня зовут Михаил
 
 <!--
 **Mikhail0-O/Mikhail0-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
