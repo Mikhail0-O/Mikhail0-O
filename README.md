@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Навыки
-
-<p align="left">
-
-</p>
 
 ## Стек технологий
 
