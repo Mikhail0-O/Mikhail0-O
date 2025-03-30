@@ -2,6 +2,8 @@
 
 Я Python-разработчик. В настоящее время нахожусь в поисках работы.
 
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0Zmt4NTgwOXd1NDU1azFxMXc3eGsxODdybmVwc2F1bzh3NHF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif
+
 ## Стек технологий
 
 <p aligin="left">
