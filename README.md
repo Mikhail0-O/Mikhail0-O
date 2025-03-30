@@ -14,6 +14,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6653d6b6-c199-42f2-8bb1-8d3c9a54faad" width="36" height="36" alt="Linux" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a189b711-72c1-449a-a95a-79f4d07640f9" width="36" height="36" alt="Nginx" /></a>
 </p>
 
 ### Контакты
