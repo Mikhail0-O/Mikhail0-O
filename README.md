@@ -1,4 +1,4 @@
-## Привет! Меня зовут Михаил
+![image](https://github.com/user-attachments/assets/bb4d5260-dc0b-4461-a2dd-3c51dc3a4794)## Привет! Меня зовут Михаил
 
 <!--
 **Mikhail0-O/Mikhail0-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 ### Контакты
 
 <p align="left">
-  <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+
+  <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b1785561-4886-4bd5-90e2-685df48b76c6" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 <b>Статистика GitHub</b>
