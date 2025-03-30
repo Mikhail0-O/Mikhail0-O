@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f7b9b98c-689a-4bf9-9b16-cd87537d78e9" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6a98593b-8801-49ce-bed4-d644f2542cce" width="36" height="36" alt="Django" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/5eec70b6-21c0-4cdf-9a57-ef75e361c8bd)" width="36" height="36" alt="Linux" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/5eec70b6-21c0-4cdf-9a57-ef75e361c8bd" width="36" height="36" alt="Linux" /></a>
 </p>
 
 ### Контакты
