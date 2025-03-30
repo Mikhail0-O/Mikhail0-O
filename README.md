@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb4d5260-dc0b-4461-a2dd-3c51dc3a4794)## Привет! Меня зовут Михаил
+## Привет! Меня зовут Михаил
 
 <!--
 **Mikhail0-O/Mikhail0-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
