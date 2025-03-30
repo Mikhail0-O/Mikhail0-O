@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Навыки
 
 <p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/79a10701-edb0-4689-98f3-2f7a5adeff0f" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ca3554a-cca2-4ae7-ae99-bd4b0f1bd92b" width="36" height="36" alt="Flask" /></a>
 </p>
 
 ## Стек технологий
