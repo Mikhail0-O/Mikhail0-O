@@ -1,6 +1,6 @@
-## Привет! Меня зовут Михаил
+## Привет! Меня зовут Михаил <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0Zmt4NTgwOXd1NDU1azFxMXc3eGsxODdybmVwc2F1bzh3NHF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="36" height="36" alt="Git" />
 
-Я Python-разработчик. В настоящее время нахожусь в поисках работы. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0Zmt4NTgwOXd1NDU1azFxMXc3eGsxODdybmVwc2F1bzh3NHF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="36" height="36" alt="Git" />
+Я Python-разработчик. В настоящее время нахожусь в поисках работы.
 
 ## Стек технологий
 
