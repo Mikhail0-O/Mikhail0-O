@@ -24,7 +24,7 @@
 
   <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b1785561-4886-4bd5-90e2-685df48b76c6" width="36" height="36" alt="GitHub" /></a>
   <a href="https://t.me/mikhailo_0" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d978cb91-9d08-4c86-b2ec-039aa48463d3" width="36" height="36" alt="Telegram" /></a>
-  <a href="M-kh-l.i-ai-O@yandex.ru" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3c818c89-1cd5-40f1-9c22-5fbd4ab437af" width="36" height="36" alt="Почта" /></a>
+  <a href="mailto:M-kh-l.i-ai-O@yandex.ru" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3c818c89-1cd5-40f1-9c22-5fbd4ab437af" width="36" height="36" alt="Почта" /></a>
 </p>
 
 <b>Статистика GitHub</b>
