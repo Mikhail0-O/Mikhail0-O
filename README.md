@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### Контакты
 
-<p align="left"> <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f927063f-fa29-4e2f-b0fb-f9e51952d9f6" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/44256c66-74f6-48a1-a1ba-b42bead7d07e" /> <img src="https://github.com/user-attachments/assets/77090d43-2ae7-4ae4-9d52-53ca14ce1abc" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f927063f-fa29-4e2f-b0fb-f9e51952d9f6" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/44256c66-74f6-48a1-a1ba-b42bead7d07e" /> <img src="https://github.com/user-attachments/assets/77090d43-2ae7-4ae4-9d52-53ca14ce1abc" width="36" height="36" /> </picture> </a></p>
 
 <b>Статистика GitHub</b>
 
-<a href="http://www.github.com/Mikhail0-O"><img src="https://github-readme-stats.vercel.app/api?username=Mikhail0-O&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mikhail0-O's GitHub stats" width="36" height="36" /></a>
+<a href="http://www.github.com/Mikhail0-O"><img src="https://github-readme-stats.vercel.app/api?username=Mikhail0-O&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mikhail0-O's GitHub stats" /></a>
