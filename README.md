@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Контакты
 
-<p align="left"> <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://github.com/user-attachments/assets/77090d43-2ae7-4ae4-9d52-53ca14ce1abc" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Mikhail0-O" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f927063f-fa29-4e2f-b0fb-f9e51952d9f6" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://github.com/user-attachments/assets/77090d43-2ae7-4ae4-9d52-53ca14ce1abc" width="32" height="32" /> </picture> </a></p>
 
 <b>Статистика GitHub</b>
 
