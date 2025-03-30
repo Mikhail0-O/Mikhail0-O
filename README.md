@@ -6,16 +6,12 @@
 
 <p aligin="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6a98593b-8801-49ce-bed4-d644f2542cce" width="36" height="36" alt="Django" /></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a37fbd77-f656-4711-a0cb-1c613c9932b0" width="36" height="36" alt="Flask" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f6bb6b23-6beb-44e8-a0f1-3d09142aa506" width="36" height="36" alt="Docker" /></a>
   <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a189b711-72c1-449a-a95a-79f4d07640f9" width="36" height="36" alt="Nginx" /></a>
-
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f7b9b98c-689a-4bf9-9b16-cd87537d78e9" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6653d6b6-c199-42f2-8bb1-8d3c9a54faad" width="36" height="36" alt="Linux" /></a>
