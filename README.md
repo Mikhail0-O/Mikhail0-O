@@ -1,6 +1,6 @@
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTV0Zmt4NTgwOXd1NDU1azFxMXc3eGsxODdybmVwc2F1bzh3NHF3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" width="25" height="25" /> Привет! 
 
-Я Python-разработчик. В настоящее время нахожусь в поисках работы.
+Я **Python-разработчик**. В настоящее время нахожусь в поисках работы.
 
 ## Стек технологий
 
