@@ -2,6 +2,8 @@
 
 Я **Python-разработчик**. В настоящее время нахожусь в поисках работы.
 
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/9542bd6d-744e-4f8b-b416-773826880ab0)
+
 ## Стек технологий
 
 <p aligin="left">
