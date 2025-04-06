@@ -20,9 +20,8 @@
 </p>
 
 <p>
-
-  
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLAlchemy-red" alt="SQLAlchemy" /></a>
+  <a href="https://alembic.sqlalchemy.org/en/latest/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Alembic-green" alt="Alembic" /></a>
   <a href="https://docs.python-telegram-bot.org/en/stable/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python_telegram_bot-blue" alt="python-telegram-bot" /></a>
   <a href="https://docs.pyrogram.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pyrogram-orange" alt="Pyrogram" /></a>
 </p>
