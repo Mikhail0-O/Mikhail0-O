@@ -20,8 +20,8 @@
 </p>
 
 <p>
-  <a href="https://docs.python-telegram-bot.org/en/stable/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python_telegram_bot-blue" alt="Pytest" /></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/pyrogram-brown">
+  <a href="https://docs.python-telegram-bot.org/en/stable/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python_telegram_bot-blue" alt="python-telegram-bot" /></a>
+  <a href="https://docs.pyrogram.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pyrogram-brown" alt="Pyrogram" /></a>
 </p>
 
 ## Контакты
