@@ -18,6 +18,10 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/3fef12d4-d7ee-40c2-a415-d7f5a2a969c6" width="36" height="36" alt="Postman" /></a>
 </p>
 
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/py_telegram_bot-blue">
+</p>
+
 ## Контакты
 
 <p align="left">
