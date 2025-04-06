@@ -20,7 +20,8 @@
 </p>
 
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/py_telegram_bot-blue">
+  <a href="https://docs.python-telegram-bot.org/en/stable/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/py_telegram_bot-blue" width="36" height="36" alt="Pytest" /></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/pyrogram-brown">
 </p>
 
 ## Контакты
